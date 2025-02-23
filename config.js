@@ -1,18 +1,18 @@
 module.exports = {
-    autoLikeStatus: true,
+    autoLikeStatus: false,
     downloadMediaStatus: false,
     sensorNumber: true,
-    sendWelcomeMessage: false,
+    sendWelcomeMessage: true,
     blackList: [],
     whiteList: [],
-    ownerNumber: '94764921555',
+    ownerNumber: '94743082029',
     userTimezone: 'Asia/Colombo',
-    mongoUrl: 'mongodb+srv://hello:Mother@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    mongoUrl: 'mongodb+srv://Hello:Hello2@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     dbName: 'hello', // Replace with your database name
     botDetails: {
-        botName: 'Demonslayer',
-        botAge: '25',
-        botLocation: 'COLOMBO',
+        botName: 'FERIX OFC',
+        botAge: '20',
+        botLocation: 'PADUKKA',
         fenixSaveName: '𝐍ɑ͢ɱꪸ𝛆'
     },
     relaxWishes: [
